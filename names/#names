@@ -1,1 +1,19 @@
-asfa
+Commands:
+
+<_MaDaLiN_>!own Madalin TCLScripting.users.undernet.org
+<BOTNICK> You have succesfully associated name 'Madalin' with hostname 'TCLSCripting.users.undernet.org' and account name '_MaDaLiN_'
+
+<_MaDaLiN_>!names top Madalin
+<BOTNICK>Top 10 users who held name 'Madalin' are:
+<BOTNICK>1. _MaDaLiN_ (1d5h6m), 2. Dooku (1d2h3m)
+
+<_MaDaLiN_>!names seen
+<BOTNICK>I have seen a number of 3 names since i record (3 days 2 hours 5 minutes)
+<BOTNICK>Top 10 MOST WANTED names are:
+<BOTNICK>1. Madalin (2d7h9m), 2. Vasile (1d4h2m)
+
+
+Conditions:
+- You can only register 2 names
+- You can use znc/emech/psybnc or whatever to keep the name
+- Your 'BOT' must be logged at X (+x mode enabled)
