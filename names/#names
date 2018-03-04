@@ -15,7 +15,8 @@ Commands:
 <_MaDaLiN_>!names registered
 <BOTNICK>1. Madalin (Total: 5d6h4m, This session: 1d4h2m - OWNED), Vasile (Total: 2d5h1m, This session: 0s - NOT OWNED)
 
-Conditions:
+Rules:
 - You can only register 2 names
 - You can use znc/emech/psybnc or whatever to keep the name
 - Your 'BOT' must be logged at X (+x mode enabled)
+- To stay on the channel you must be either voiced/op or play the game.
