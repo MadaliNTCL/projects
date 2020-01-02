@@ -1,0 +1,101 @@
+# +-------------------------------------------------------------------------------------+
+# |                                                                                     |
+# |                         Trivia Script v3.0.0                                        |
+# |                                                                                     |
+# +-------------------------------------------------------------------------------------+
+# |                                                                                     |
+# | *** Website             @  http://www.ascenture.ro                                  |
+# |                                                                                     |
+# +-------------------------------------------------------------------------------------+
+# | *** IRC Support:                                                                    |
+# |                    #MadaliN      @ QuakeNET                                         |
+# |                    #EggdropTCL   @ UnderNET                                         |
+# |                                                                                     |
+# | *** Contact:                                                                        |
+# |                    Yahoo Messenger/Mail: madalinmen28@yahoo.com                     |
+# |                    Google Mail         : madalinmen28@gmail.com                     |
+# |                    Skype Messenger     : madalinmen28                               |
+# |                                                                                     |
+# +-------------------------------------------------------------------------------------+
+# + *** Commands ***                                                                    |
+# |     +---------------+                                                               |
+# |     [ Admin - PUBLIC]                                                               |
+# |     +---------------+                                                               |
+# |                                                                                     |
+# |     +++ theme                                                                       |
+# |         ---- 1/2/3/4/5/6/7/8/9/10                                                   |
+# |     +++ trivia                                                                      |
+# |         ------ set                                                                  |
+# |                --- simple <seconds>                                                 |
+# |                --- kaos <seconds>                                                   |
+# |                --- stop                                                             |
+# |                --- chan                                                             |
+# |                --- winner                                                           |
+# |                --- multiply                                                         |
+# |                --- roundpoints                                                      |
+# |                --- roundbonus                                                       |
+# |                --- bonus                                                            |
+# |                    ----- min                                                        |
+# |                    ----- max                                                        |
+# |     +++ reset                                                                       |
+# |         ----- team                                                                  |
+# |               ---- all                                                              |
+# |         ----- user                                                                  |
+# |         ----- top                                                                   |
+# |               --- daily/weekly/monthly/total/cps/fast/qa/qar/all                    |
+# |     +++ botlag                                                                      |
+# |     +++ rehash                                                                      |
+# |     +++ install                                                                     |
+# |     +++ jump                                                                        |
+# |     +++ userinfo <player>                                                           |
+# |     +++ helper                                                                      |
+# |         ------ add                                                                  |
+# |         ------ del                                                                  |
+# |                                                                                     |
+# |     +----------------+                                                              |
+# |     [ Helper - PUBLIC]                                                              |
+# |     +----------------+                                                              |
+# |     +++ skip                                                                        |
+# |                                                                                     |
+# |     +-------------+                                                                 |
+# |     [ Helper - MSG]                                                                 |
+# |     +-------------+                                                                 |
+# |     +++ add                                                                         |
+# |         --- question                                                                |
+# |     +++ del                                                                         |
+# |         --- question <number>                                                       |
+# |     +++ search                                                                      |
+# |         ------ question <number/phrase>                                             |
+# |     +++ modify                                                                      |
+# |         ------ question <question number> <new question>                            |
+# |         ------ answer <question number> <*new answer>                               |
+# |     +++ kick                                                                        |
+# |     +++ ban                                                                         |
+# |     +++ unban                                                                       |
+# |                                                                                     |
+# |     +-----------------+                                                             |
+# |     [ Players - PUBLIC]                                                             |
+# |     +-----------------+                                                             |
+# |     +++ moderators                                                                  |
+# |     +++ ping                                                                        |
+# |     +++ server                                                                      |
+# |     +++ runde                                                                       |
+# |     +++ forward                                                                     |
+# |         ------- daily/weekly/monthly/total/cps/fast                                 |
+# |     +++ backward                                                                    |
+# |         ------ daily/weekly/monthly/total/cps/fast                                  |
+# |     +++ top                                                                         |
+# |         --- daily/weekly/monthly/total/cps/fast/team                                |
+# |                                                                                     |
+# |     +--------------+                                                                |
+# |     [ Players - MSG]                                                                |
+# |     +--------------+                                                                |
+# |     +++ team                                                                        |
+# |         ---- create                                                                 |
+# |         ---- delete                                                                 |
+# |         ---- members                                                                |
+# |         ---- excludeme                                                              |
+# |         ---- exclude                                                                |
+# |         ---- invite                                                                 |
+# |         ---- accept                                                                 |
+# +-------------------------------------------------------------------------------------+
