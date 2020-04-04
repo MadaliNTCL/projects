@@ -90,6 +90,10 @@
 # |     +--------------+                                                                |
 # |     [ Players - MSG]                                                                |
 # |     +--------------+                                                                |
+# |     +++ teaminfo
+# |     +++ stats
+# |     +++ last day/week/month
+# |     +++ jackport -left/-info/-status
 # |     +++ team                                                                        |
 # |         ---- create                                                                 |
 # |         ---- delete                                                                 |
