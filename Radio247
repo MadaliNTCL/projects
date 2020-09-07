@@ -1,0 +1,67 @@
+# +-------------------------------------------------------------------------------------+
+# |                                                                                     |
+# |                                   Radio                                             |
+# |                                                                                     |
+# +-------------------------------------------------------------------------------------+
+# |                                                                                     |
+# | *** Website             @  http://www.ascenture.ro                                  |
+# |                                                                                     |
+# +-------------------------------------------------------------------------------------+
+# | *** IRC Support:                                                                    |
+# |                    #Ascenture     @ UnderNET/QuakeNET                               |
+# |                                                                                     |
+# | *** Author contact:                                                                 |
+# |                    Yahoo Messenger     : madalinmen28@yahoo.com                     |
+# |                    Google              : madalinmen28@gmail.com                     |
+# |                    Skype               : madalinmen28                               |
+# |                                                                                     |
+# +-------------------------------------------------------------------------------------+
+# + *** Commands ***                                                                    |
+# | ** ADMIN                                                                            |
+# |     +-----------------+                                                             |
+# |     [ ADMIN - PRIVATE ]                                                             |
+# |     +-----------------+                                                             |
+# |                                                                                     |
+# |     +++ radio <ip> <port> <pass> <chan>                                             |
+# |     +++ radio announce <song/listeners> <seconds>                                   |
+# |     +++ radio dedicatie <chan/privmsg/notice>                                       |
+# |     +++ radio dj <nickname>                                                         |
+# |     +++ radio info                                                                  |
+# |     +++ radio <off>                                                                 |
+# |                                                                                     |
+# |     +----------------+                                                              |
+# |     [ ADMIN - PUBLIC ]                                                              |
+# |     +----------------+                                                              |
+# |                                                                                     |
+# |     +++ !warn <nickname> <*m/*h/*d/*w>                                              |
+# |     +++ !keep <del> <text>                                                          |
+# |     +++ !dump <del> <text>                                                          |
+# |     +++ !vote <dj>                                                                  |
+# |     +++ !history                                                                    |
+# |     +++ !dj <add/del/list> <nickname>                                               |
+# |     +++ !setdj                                                                      |
+# |     +++ !unsetdj                                                                    |
+# |                                                                                     |
+# | ** USER                                                                             |
+# |     +---------------+                                                               |
+# |     [ USER - PUBLIC ]                                                               |
+# |     +---------------+                                                               |
+# |                                                                                     |
+# |     +++ !listeners                                                                  |
+# |     +++ !song                                                                       |
+# |     +++ !peak                                                                       |
+# |     +++ !averagetime                                                                |
+# |     +++ !url                                                                        |
+# |     +++ !bitrate                                                                    |
+# |     +++ !streamhits                                                                 |
+# |     +++ !title                                                                      |
+# |     +++ !vote dj                                                                    |
+# |     +++ !top <keep/dump/dj> <onair>                                                 |
+# |     +++ !streamuptime (v2)                                                          |
+# |                                                                                     |
+# |     +---------------+                                                               |
+# |     [ USER - MSG    ]                                                               |
+# |     +---------------+                                                               |
+# |                                                                                     |
+# |     +++ radio commands                                                              |
+# +-------------------------------------------------------------------------------------+
