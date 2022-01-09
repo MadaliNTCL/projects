@@ -1,14 +1,14 @@
 # +-------------------------------------------------------------------------------------+
 # |                                                                                     |
-# |                                   Radio                                             |
+# |                                   Radio247                                          |
 # |                                                                                     |
 # +-------------------------------------------------------------------------------------+
 # |                                                                                     |
-# | *** Website             @  http://www.ascenture.ro                                  |
+# | *** Website             @  http://www.ceva.ro                                       |
 # |                                                                                     |
 # +-------------------------------------------------------------------------------------+
 # | *** IRC Support:                                                                    |
-# |                    #Ascenture     @ UnderNET/QuakeNET                               |
+# |                    #EggdropoTCL     @ UnderNET/QuakeNET                             |
 # |                                                                                     |
 # | *** Author contact:                                                                 |
 # |                    Yahoo Messenger     : madalinmen28@yahoo.com                     |
@@ -21,47 +21,17 @@
 # |     +-----------------+                                                             |
 # |     [ ADMIN - PRIVATE ]                                                             |
 # |     +-----------------+                                                             |
-# |                                                                                     |
-# |     +++ radio <ip> <port> <pass> <chan>                                             |
-# |     +++ radio announce <song/listeners> <seconds>                                   |
-# |     +++ radio dedicatie <chan/privmsg/notice>                                       |
-# |     +++ radio dj <nickname>                                                         |
-# |     +++ radio info                                                                  |
-# |     +++ radio <off>                                                                 |
-# |                                                                                     |
 # |     +----------------+                                                              |
 # |     [ ADMIN - PUBLIC ]                                                              |
 # |     +----------------+                                                              |
-# |                                                                                     |
-# |     +++ !warn <nickname> <*m/*h/*d/*w>                                              |
-# |     +++ !keep <del> <text>                                                          |
-# |     +++ !dump <del> <text>                                                          |
-# |     +++ !vote <dj>                                                                  |
-# |     +++ !history                                                                    |
-# |     +++ !dj <add/del/list> <nickname>                                               |
-# |     +++ !setdj                                                                      |
-# |     +++ !unsetdj                                                                    |
-# |                                                                                     |
-# | ** USER                                                                             |
-# |     +---------------+                                                               |
-# |     [ USER - PUBLIC ]                                                               |
-# |     +---------------+                                                               |
-# |                                                                                     |
-# |     +++ !listeners                                                                  |
-# |     +++ !song                                                                       |
-# |     +++ !peak                                                                       |
-# |     +++ !averagetime                                                                |
-# |     +++ !url                                                                        |
-# |     +++ !bitrate                                                                    |
-# |     +++ !streamhits                                                                 |
-# |     +++ !title                                                                      |
-# |     +++ !vote dj                                                                    |
-# |     +++ !top <keep/dump/dj> <onair>                                                 |
-# |     +++ !streamuptime (v2)                                                          |
-# |                                                                                     |
-# |     +---------------+                                                               |
-# |     [ USER - MSG    ]                                                               |
-# |     +---------------+                                                               |
-# |                                                                                     |
-# |     +++ radio commands                                                              |
 # +-------------------------------------------------------------------------------------+
+
+## IRC
+#- Automatizari
+[Top '3' - Zilnic/Saptamanal/Lunar] #1 Akcent - Inima te cheama 100 voturi; #2 Morandi - Vino vino 43 voturi; #3 Alina Eremia - Sangria 20 voturi
+[Activitate - Vot/Like/Dislike/Request] - RoCHAT 43; UnderNET 20; QuakeNET 10 
+
+
+#- Comenzi noi
+@relay <mesaj> = mesajul va fi transmis pe toate retelele (pentru DJ)
+@
